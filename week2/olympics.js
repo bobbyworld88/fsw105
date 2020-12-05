@@ -1,5 +1,5 @@
 //Preliminaries//
-/*
+
 if (5 > 3) {
     console.log("is greater than");
 }
@@ -14,8 +14,8 @@ if ("cat" === "dog") {
 else {
     console.log("not the same");
 }
-*/
-/*
+
+
 //Bronze Medal//
 
 const person = {
@@ -48,9 +48,6 @@ if (person.age = 18 && firstLetter) {
 else {
     console.log("ERROR 54");
 }
-*/
-
-
 
 //Silver Medal//
 
