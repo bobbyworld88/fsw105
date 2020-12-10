@@ -1,20 +1,21 @@
 //Preliminaries//
 
-if (5 > 3) {
-    console.log("is greater than");
+ if(5 > 3){
+   console.log("is greater than");
+  
 }
 
-if (cat = 3) {
-    console.log("is the length");
+ if ("cat".length === 3){
+   console.log("is the length");
+  }
+
+  if ("cat" === "dog"){
+   console.log("true");
 }
 
-if ("cat" === "dog") {
-    console.log(" ");
-}
-else {
+  else{
     console.log("not the same");
-}
-
+  }
 
 //Bronze Medal//
 
@@ -57,7 +58,7 @@ if (1 === 1) {
     console.log("strict");
 }
 
-else if ("1" == 1){
+else if ("1" == 1){ 
     console.log("loose");
 }
 
@@ -66,7 +67,7 @@ else if (1 == "1") {
 }
 
 else {
-    console.log("not equal at all")
+    console.log("not equal at all");
 }
 
 // 
